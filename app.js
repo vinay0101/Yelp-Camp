@@ -44,3 +44,5 @@ app.listen(3000, () => {
 // views - for ejs
 // models = for mongoose (Mongoose is a MongoDB ODM i.e (Object database Modelling) that used to translate the code and its representation from MongoDB to the Node. js server.)
 // The app.set() function is used to assign the setting name to value. You may store any value that you want, but certain names can be used to configure the behavior of the server. 
+// db commands - mongosh --> show dbs --> use yelp-camp --> db.campgrounds.find() 
+// start express server --> nodemon app.js
